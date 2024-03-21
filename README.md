@@ -2,6 +2,9 @@
 Simple front-end design suitable for beginners, built using basic HTML and CSS
 
 ## Website Look
+- view live on : https://kunalbandale.github.io/LensLuxe/
+![Image](https://github.com/kunalbandale/LensLuxe/blob/main/images/screenshot.png)
+
 
 ## Contributing
 Contributions are welcome! If you'd like to enhance the project or fix any issues, please follow these steps:
